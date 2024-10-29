@@ -5,7 +5,8 @@ GroupMaker adalah aplikasi desktop yang dirancang untuk membantu pengguna dalam 
 Fitur Utama:
     Input Nama : Pengguna dapat memasukkan nama-nama yang akan dikelompokkan dengan memisahkan nama menggunakan tanda '-' atau mengimpor dari file CSV.
     
-    Metode Pengelompokan: Terdapat beberapa strategi pengelompokan yang dapat dipilih, termasuk:
+    Metode Pengelompokan: Terdapat beberapa strategi pengelompokan yang dapat dipilih :
+    
         Acak: Mengacak nama-nama sebelum membentuk grup.
         Abjad: Mengurutkan nama-nama secara alfabetis sebelum membentuk grup.
         Panjang Huruf: Mengurutkan nama-nama berdasarkan panjang huruf.
