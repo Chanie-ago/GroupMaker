@@ -1,4 +1,5 @@
 # GroupMaker
+
 GroupMaker adalah aplikasi desktop yang dirancang untuk membantu pengguna dalam membentuk kelompok dari daftar nama. Pengguna dapat memasukkan nama-nama yang ingin dikelompokkan, menentukan jumlah grup yang diinginkan, dan memilih metode pengelompokan.
 
 Fitur Utama:
